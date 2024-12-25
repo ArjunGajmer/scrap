@@ -1,0 +1,8 @@
+.venv/
+.env
+*.pyc
+__pycache__/
+.scrapped_data/
+test.db/
+*.db
+.idea/
